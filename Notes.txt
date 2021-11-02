@@ -1,0 +1,33 @@
+This was made from the example video by Traversy Media on Youtube  - https://www.youtube.com/watch?v=hdI2bqOjy3c
+Time stamps
+1:05 What is JS?
+3:19 Why learn JS?
+4:37 What u will learn in this course?
+6:10 Let's Jump In!
+6:45 Add JS to HTML
+9:38 Basic syntax
+11:14 Variables
+14:17 Data types
+        18:33 Strings
+        18:44 Concatenation
+        19:44 Template String ES6 (2015)
+        20:38 String properties and methods
+23:52 Arrays
+30:07 Object literals
+        34:19 Array of todos
+35:58 JSON
+37:42 Loops
+        40:30 Loop through arrays
+        42:24 High order array methods
+46:30 Conditionals
+        51:24 Ternary operator
+        52:48 Switches
+54:23 Functions
+59:25 Object-oriented programming OOP
+        1:05:02 Prototypes
+1:10:30 DOM Document Object Model
+        1:14:45 Single element
+        1:17:00 Multiple element
+        1:19:25 Loop through
+        1:20:05 Manipulating the DOM or Changing things in the DOM
+        1:30:35 Making a tiny little app
